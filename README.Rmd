@@ -16,49 +16,31 @@ knitr::opts_chunk$set(
 # rencher
 
 <!-- badges: start -->
+
 <!-- badges: end -->
 
-The goal of rencher is to ...
+This package provides a collection of Datasets from the Book "Methods of Multivariate Analysis (3rd)".
 
 ## Installation
 
-You can install the development version of rencher like so:
+You can install the development version from [CRAN](https://doi.org/10.32614/CRAN.package.rencher):
+```{r, include = FALSE}
+options(repos = c(CRAN = "https://cloud.r-project.org"))
 
-``` r
-# FILL THIS IN! HOW CAN PEOPLE INSTALL YOUR DEV PACKAGE?
 ```
 
-## Example
-
-This is a basic example which shows you how to solve a common problem:
-
-```{r example}
-library(rencher)
-## basic example code
+```{r, eval=FALSE}
+install.packages('rencher', dependencies = TRUE)
+```
+You can install the development version from [Github]():
+```{r, eval=FALSE}
+# install.packages("remotes")
+remotes::install_github("AtefehRashidi/rencher")
 ```
 
-What is special about using `README.Rmd` instead of just `README.md`? You can include R chunks like so:
 
-```{r cars}
-summary(cars)
-```
+![](man/figures/hex_rencher.png)
 
-You'll still need to render `README.Rmd` regularly, to keep `README.md` up-to-date. `devtools::build_readme()` is handy for this.
+## License
 
-You can also embed plots, for example:
-
-```{r pressure, echo = FALSE}
-plot(pressure)
-```
-
-In that case, don't forget to commit and push the resulting figure files, so they display on GitHub and CRAN.
-
-![](man/figures/hex rencher.png)
-
-## Dataset Description
-
-This package provides a collection of datasets extracted from the book "Methods of Multivariate Analysis" by Richard A. Johnson. The purpose of compiling and making these datasets available is to assist students and researchers in performing multivariate statistical analyses, including MANOVA (Multivariate Analysis of Variance), with ease.
-
-The datasets included in this package are specifically drawn from various chapters of the book and contain exercises and examples presented to help readers better understand the statistical concepts and their real-world applications. This collection enables students to enhance their skills in statistical analysis by working with real data and exercises from the textbook.
-
-These datasets are derived under the author's guidance in the book, and the primary goal is to provide easier access to the data and facilitate the teaching and learning of complex statistical techniques for both beginners and advanced learners in the field of statistics.
+This package is free and open source software, licensed under GPL-3.

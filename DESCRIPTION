@@ -1,6 +1,6 @@
 Package: rencher
 Title: Datasets from the Book "Methods of Multivariate Analysis (3rd)"
-Version: 0.1.3
+Version: 0.1.4
 Authors@R: c(
     person("Atefeh Rashidi Pour", "", email = "rashidiatefeh98@gmail.com", role = c("aut", "cre")),
     person("Fatemeh Naderi", "", email = "fatemeh.naderi7999@gmail.com", role = "aut")
