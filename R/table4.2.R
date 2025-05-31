@@ -1,0 +1,16 @@
+#' Table 4.2
+#' Table 4.2 Hematology Data
+#'
+#' @format A dataframe with 51 rows and 7 columns
+#'\describe{
+#'\item{ObservationNumber}{ID}
+#'\item{y1}{hemoglobin concentration}
+#'\item{y2}{packed cell volume}
+#'\item{y3}{white blood cell count}
+#'\item{y4}{lymphocyte count}
+#'\item{y5}{neutrophil count}
+#'\item{y6}{serum lead concentration}
+#' }
+#' @source  Six hematology variables were measured on 51 workers (Royston 1983)
+"table4.2"
+

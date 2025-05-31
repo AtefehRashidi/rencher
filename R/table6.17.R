@@ -1,0 +1,20 @@
+#' Table 6.17 Judges' Scores on Fish Prepared by Three Methods
+#'
+#' @format A dataframe with 12 rows and 12 columns
+#'\describe{
+#'\item{y1_1}{aroma}
+#'\item{y1_2}{flavor}
+#'\item{y1_3}{texture}
+#'\item{y1_4}{moisture}
+#'\item{y2_1}{aroma}
+#'\item{y2_2}{flavor}
+#'\item{y2_3}{texture}
+#'\item{y2_4}{moisture}
+#'\item{y3_1}{aroma}
+#'\item{y3_2}{flavor}
+#'\item{y3_3}{texture}
+#'\item{y3_4}{moisture}
+#' }
+#' @source  Baten, Tack, and Baeder (1958,p.8)
+"table6.17"
+

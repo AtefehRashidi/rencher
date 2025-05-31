@@ -1,0 +1,12 @@
+#' Table 6.21
+#' Table 6.21 Weights of Cork Borings (eg) in Four Directions for 28 Trees
+#' @format A dataframe with 28 rows and 5 columns
+#'\describe{
+#'\item{Tree}{variable 1}
+#'\item{N}{variable 2}
+#'\item{E}{variable 3}
+#'\item{S}{variable 4}
+#'\item{W}{variable 5}
+#' }
+#' @source  Extracted from Table 3.1 in Rencher (3rd ed)
+"table6.21"
