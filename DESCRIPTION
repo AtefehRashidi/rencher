@@ -13,4 +13,5 @@ RoxygenNote: 7.3.2
 Depends: 
     R (>= 4.1.0)
 LazyData: true
- 
+URL: https://github.com/AtefehRashidi/rencher
+BugReports: https://github.com/AtefehRashidi/rencher/issues
