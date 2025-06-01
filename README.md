@@ -1,14 +1,16 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# rencher
+# rencher <img src="man/figures/hex_rencher.png" align="right" width="17%"/>
 
 <!-- badges: start -->
-<!-- badges: end -->
+
 ![CRAN](https://www.r-pkg.org/badges/version/rencher)
 ![Monthly downloads](https://cranlogs.r-pkg.org/badges/last-month/rencher)
 ![Total downloads](https://cranlogs.r-pkg.org/badges/grand-total/rencher)
-![License](https://img.shields.io/badge/license-GPL--3-yellow?style=flat)
+![License](https://img.shields.io/badge/license-GPL--3-yellow?style=flat) 
+
+<!-- badges: end -->
 
 This package provides a collection of Datasets from the Book “Methods of
 Multivariate Analysis (3rd)”.
@@ -28,7 +30,6 @@ Alternatively, you can install the development version from [Github](https://git
 # install.packages("remotes")
 remotes::install_github("AtefehRashidi/rencher")
 ```
-![](man/figures/hex_rencher.png)
 
 ## License
 
