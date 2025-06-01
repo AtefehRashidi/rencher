@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# rencher <img src="man/figures/hex_rencher.png" align="right" width="25%"/>
+# rencher <img src="man/figures/hex_rencher.png" align="right" width="22%"/>
 
 <!-- badges: start -->
 
