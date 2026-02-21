@@ -34,3 +34,6 @@ remotes::install_github("AtefehRashidi/rencher")
 ## License
 
 This package is free and open source software, licensed under GPL-3.
+## Note
+The dataset for Table3.3 is currently unavailable and therefore not included in this package. 
+If you have access to the complete data, please open an issue or contact the maintainer so it can be added in a future update.
